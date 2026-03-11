@@ -1,4 +1,4 @@
-# Projetos em C++
+# Projetos em C++ | Udemy
 
 Este repositório reúne vários exercícios e pequenos projetos feitos durante meu estudo da linguagem **C++**.  
 Cada pasta contém um projeto separado, com seu próprio código e um README explicando o que o programa faz.
